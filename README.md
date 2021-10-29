@@ -1,6 +1,6 @@
 # Meta-SparseINR
 
-Official PyTorch implementation of **"Meta-learning Sparse Implicit Neural Representations"** (NeurIPS 2021) by [Jaeho Lee*](https://jaeho-lee.github.io/), [Jihoon Tack*](https://jihoontack.github.io/), [Namhoon Lee](https://www.robots.ox.ac.uk/~namhoon/), and [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
+Official PyTorch implementation of **["Meta-learning Sparse Implicit Neural Representations"](https://arxiv.org/abs/2110.14678)** (NeurIPS 2021) by [Jaeho Lee*](https://jaeho-lee.github.io/), [Jihoon Tack*](https://jihoontack.github.io/), [Namhoon Lee](https://www.robots.ox.ac.uk/~namhoon/), and [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
 
 **TL;DR**: *We develop a scalable method to learn sparse neural representations for a large set of signals.*
 
